@@ -1,0 +1,12 @@
+{
+    "name": "eliza/taskapp",
+    "authors": [
+        {
+            "name": "Nyakomitta Nicole Elizabeth",
+            "email": "167431923+NicoleNyakomitta@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
