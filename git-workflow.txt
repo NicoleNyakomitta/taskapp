@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit without submodules"
+git remote add origin https://github.com/NicoleNyakomitta/taskapp.git
+git push -u origin master
